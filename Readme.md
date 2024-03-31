@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 5. After successful login , you can redirect to home page
 
 
-# Download KGradientPanel Jar
+# Required Jar files
   
 
 - [KGradientPanel JAR](https://github.com/k33ptoo/KGradientPanel/raw/master/dist/KGradientPanel.jar)
