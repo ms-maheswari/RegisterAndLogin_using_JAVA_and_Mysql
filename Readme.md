@@ -43,6 +43,8 @@ To run this project locally, follow these steps:
 - JCalendar library: [JCalendar](http://www.java2s.com/Code/Jar/j/Downloadjcalendarjar.htm)
 
 ![Registration Form](Screenshots/Register.png)
-![Login](Screenshots/Login.png)s
+
+![Login](Screenshots/Login.png)
+
 ![Home](Screenshots/Home.png)
 
