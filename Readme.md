@@ -39,17 +39,20 @@ To run this project locally, follow these steps:
 # Download KGradientPanel Jar
   
 
-- [KGradienPanel Jar](https://github.com/k33ptoo/KGradientPanel/raw/master/dist/KGradientPanel.jar)
+- [KGradientPanel JAR](https://github.com/k33ptoo/KGradientPanel/raw/master/dist/KGradientPanel.jar)
 - [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/)
 - [JCalendar](https://sourceforge.net/projects/jdatechooser/files/latest/download)
 
 This is Register page where you have to enter all necessary details
+
 ![Registration Form](Screenshots/Register.png)
 
 After creating account you have to login here
+
 ![Login](Screenshots/Login.png)
 
 Once login is done, you will redirect to this home page
+
 ![Home](Screenshots/Home.png)
 
 ## Steps to use KGradientPanel
