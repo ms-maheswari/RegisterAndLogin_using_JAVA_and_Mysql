@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-    git clone https://github.com/yourusername/project.git
+    git clone https://github.com/ms-maheswari/RegisterAndLogin_using_JAVA_and_Mysql.git
    
 
 2. Import the project into Java NetBeans.
