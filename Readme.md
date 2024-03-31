@@ -39,9 +39,9 @@ To run this project locally, follow these steps:
 # Download KGradientPanel Jar
   
 
-- [KGradientPanel Jar](https://raw.githubusercontent.com)
+- [KGradienPanel Jar](https://github.com/k33ptoo/KGradientPanel/raw/master/dist/KGradientPanel.jar)
 - [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/)
-- [JCalendar](http://www.java2s.com/Code/Jar/j/Downloadjcalendarjar.htm)
+- [JCalendar](https://sourceforge.net/projects/jdatechooser/files/latest/download)
 
 This is Register page where you have to enter all necessary details
 ![Registration Form](Screenshots/Register.png)
@@ -51,4 +51,17 @@ After creating account you have to login here
 
 Once login is done, you will redirect to this home page
 ![Home](Screenshots/Home.png)
+
+## Steps to use KGradientPanel
+
+1. Open Netbeans Create your Swing application, head to Palette right click and select Palette Manager select Add From Jar and browse to the location of the downloaded jar file. Select and proceed, select KGradientPanel component proceed to select the category and hit Finish.
+
+2. Open your JFrame drag KGradientPanel to it and set the following properties in the properties window.
+
+## Properties
+1. kEndColor(Color) Gets or sets the button’s gradient end color to the right.
+
+2. kGradientFocus(int) Gets or sets the location to which the gradient should focus (accepts negative value)
+
+3. kStartcolor(Color) Gets or sets the button’s gradient end color to the left.
 
