@@ -290,7 +290,7 @@ public class Login extends javax.swing.JFrame {
         else if(pass.equals(""))
             JOptionPane.showMessageDialog(null, "Password is required");
         else{
-             String query = "SELECT * FROM `myusers` WHERE `email` = ? AND `password` = ?";
+             String query = "SELECT * FROM `profile` WHERE `email` = ? AND `password` = ?";
         try {
             ps = MyConnection.getConnection().prepareStatement(query);
             ps.setString(1, email);
